@@ -5,7 +5,7 @@ I am [Abhay](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/), a pass
 # Social
 
 LinkedIn :[Abhay Kumar Agrawal](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/)
-Twitter : [@abhay](AbhayAg34169182)
+Twitter : [@abhay](https://twitter.com/AbhayAg34169182)
 
 
 
