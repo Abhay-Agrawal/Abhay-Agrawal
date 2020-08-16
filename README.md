@@ -12,7 +12,7 @@ I am [Abhay](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/), a pass
 
 * LinkedIn :[Abhay Kumar Agrawal](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/)
 * Twitter : [@abhay](https://twitter.com/AbhayAg34169182)
-* Email : [abhay.agrawal0698@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+* Email : [abhay.agrawal0698@gmail.com]
 
 
 
