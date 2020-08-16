@@ -2,7 +2,8 @@
 
 I am [Abhay](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/), a passionate magento developer from india.
 
-![mag](https://user-images.githubusercontent.com/55655451/90337099-ea5e7400-dffd-11ea-9c11-a1ce06bc16bb.png)
+![mag](https://user-images.githubusercontent.com/55655451/90337099-ea5e7400-dffd-11ea-9c11-a1ce06bc16bb.png)   ![php](https://user-images.githubusercontent.com/55655451/90337140-2b568880-dffe-11ea-8cf8-a44d1411cc76.png)
+
 
 # Blogs
 
