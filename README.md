@@ -2,6 +2,8 @@
 
 I am [Abhay](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/), a passionate magento developer from india.
 
+![mag](https://user-images.githubusercontent.com/55655451/90337099-ea5e7400-dffd-11ea-9c11-a1ce06bc16bb.png)
+
 # Blogs
 
 * [How to fetch system configuration value using graphQl in magento2?](https://www.linkedin.com/pulse/how-fetch-system-configuration-value-using-graphql-magento2-agrawal-1c/?trackingId=EjM4fCsCTGatlblb0RnwdA%3D%3D)
