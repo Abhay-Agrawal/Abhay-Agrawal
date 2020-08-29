@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Abhay](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/), a passionate magento developer from <a href="https://en.wikipedia.org/wiki/India"><img src="https://user-images.githubusercontent.com/55655451/90338483-a2dce580-e007-11ea-8341-9d471535719f.png" width="25" height="22"></a>
+**I am [Abhay](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/), a passionate magento developer from <a href="https://en.wikipedia.org/wiki/India"><img src="https://user-images.githubusercontent.com/55655451/90338483-a2dce580-e007-11ea-8341-9d471535719f.png" width="25" height="22"></a>**
 
 I mostly work with Magento2 and web desgning technologies.
 
