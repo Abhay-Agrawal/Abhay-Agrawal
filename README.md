@@ -10,10 +10,10 @@ I mostly work with Magento2 and web desgning technologies.
 
 # My Magento Module
 
-| Module Name | Description |
-| --- | --- |
-| [Custom Shipping](https://github.com/Abhay-Agrawal/Abhay_CustomShipping-1.0.0) | Custom Shipping Method For Magento Website |
-| [LatestNews](https://github.com/Abhay-Agrawal/Abhay_LatestNews-1.0.0) | Add Latest News Related to product offer with content in your website |
+| S.No.| Module Name | Description |
+| --- | --- | --- |
+| 1.| [Custom Shipping](https://github.com/Abhay-Agrawal/Abhay_CustomShipping-1.0.0) | Custom Shipping Method For Magento Website |
+| 2.| [LatestNews](https://github.com/Abhay-Agrawal/Abhay_LatestNews-1.0.0) | Add Latest News Related to product offer with content in your website |
 
 
 # Blogs
