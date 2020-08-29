@@ -16,7 +16,7 @@ I mostly work with Magento2 and web desgning technologies.
 | 2.| [LatestNews](https://github.com/Abhay-Agrawal/Abhay_LatestNews-1.0.0) | Add Latest News Related to product offer with content in your website |
 
 
-# Blogs
+# My Blogs
 
 | S.No.| Blog Name |
 | --- | --- |
@@ -24,10 +24,6 @@ I mostly work with Magento2 and web desgning technologies.
 | 2. | [How to add a custom link in the header and footer in magento2?](https://www.linkedin.com/pulse/how-add-custom-link-header-footer-magento2-abhay-kumar-agrawal/) |
 | 3. | [How to get product information using graphQl in a custom module?](https://www.linkedin.com/pulse/how-get-product-information-using-graphql-custom-module-agrawal/?published=t)|
 
-
-* [How to fetch system configuration value using graphQl in magento2?](https://www.linkedin.com/pulse/how-fetch-system-configuration-value-using-graphql-magento2-agrawal-1c/?trackingId=EjM4fCsCTGatlblb0RnwdA%3D%3D)
-* [How to add a custom link in the header and footer in magento2?](https://www.linkedin.com/pulse/how-add-custom-link-header-footer-magento2-abhay-kumar-agrawal/)
-* [How to get product information using graphQl in a custom module?](https://www.linkedin.com/pulse/how-get-product-information-using-graphql-custom-module-agrawal/?published=t)
 
 
 # Social
