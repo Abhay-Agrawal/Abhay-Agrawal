@@ -36,6 +36,10 @@ ___
 | 2. | [How to add a custom link in the header and footer in magento2?](https://www.linkedin.com/pulse/how-add-custom-link-header-footer-magento2-abhay-kumar-agrawal/) |
 | 3. | [How to get product information using graphQl in a custom module?](https://www.linkedin.com/pulse/how-get-product-information-using-graphql-custom-module-agrawal/?published=t)|
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhay-Agrawal)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Agrawal&show_icons=true)  
+
 
 ___
 # Social
