@@ -34,8 +34,8 @@ ___
 | 7.| [GroupProductOptions](https://github.com/Abhay-Agrawal/Abhay_GroupProductOptions-1.0.0) | To show the group product options like as child product available quantity, SKU and custom message |
 
 ___
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Agrawal&show_icons=true)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Agrawal)](https://github.com/anuraghazra/github-readme-stats) |
-| --- | --- |
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Agrawal)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Agrawal&show_icons=true&theme=radical) 
+
 ___
 # My Blogs
 
