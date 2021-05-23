@@ -7,6 +7,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbhayAg34169182) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12543889/abhay-agrawal)  
+
+
 ![](https://komarev.com/ghpvc/?username=Abhay-Agrawal&color=green)
 ___
 **I mostly work with Magento2 and web designing technologies.**
@@ -32,7 +34,9 @@ ___
 | 7.| [GroupProductOptions](https://github.com/Abhay-Agrawal/Abhay_GroupProductOptions-1.0.0) | To show the group product options like as child product available quantity, SKU and custom message |
 
 ___
-
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Agrawal&show_icons=true)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Agrawal)](https://github.com/anuraghazra/github-readme-stats) |
+| --- | --- |
+___
 # My Blogs
 
 | S.No.| Blog Name |
@@ -40,16 +44,6 @@ ___
 | 1. | [How to fetch system configuration value using graphQl in magento2?](https://www.linkedin.com/pulse/how-fetch-system-configuration-value-using-graphql-magento2-agrawal-1c/?trackingId=EjM4fCsCTGatlblb0RnwdA%3D%3D) |
 | 2. | [How to add a custom link in the header and footer in magento2?](https://www.linkedin.com/pulse/how-add-custom-link-header-footer-magento2-abhay-kumar-agrawal/) |
 | 3. | [How to get product information using graphQl in a custom module?](https://www.linkedin.com/pulse/how-get-product-information-using-graphql-custom-module-agrawal/?published=t)|
-
-
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-Agrawal&show_icons=true)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Agrawal)](https://github.com/anuraghazra/github-readme-stats) |
-| --- | --- |
-
-
-___
-
-
-
 ___
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhay-Agrawal)  
 
