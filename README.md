@@ -40,9 +40,11 @@ ___
 ___
 # Social
 
-* LinkedIn :[Abhay Kumar Agrawal](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/)
-* Twitter : [@abhay](https://twitter.com/AbhayAg34169182)
-* Email : abhay.agrawal0698@gmail.com
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhay-Agrawal) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbhayAg34169182) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12543889/abhay-agrawal)  
+
 
 ___
 
